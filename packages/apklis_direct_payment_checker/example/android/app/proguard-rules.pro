@@ -5,7 +5,6 @@
 -keep class io.flutter.view.**  { *; }
 -keep class io.flutter.**  { *; }
 -keep class io.flutter.plugins.**  { *; }
--keep class es.zyrcled.app.BuildConfig { *; }
 
 # This is generated automatically by the Android Gradle plugin.
 -dontwarn androidx.window.extensions.WindowExtensions
